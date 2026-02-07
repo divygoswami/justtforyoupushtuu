@@ -23,4 +23,5 @@ yesBtn.addEventListener(“click”, () => {
       <p style=“font-size:20px;”>Mujhe pata tha tum maan jaogi 💖</p>
     </div>
   `;
+
 });
