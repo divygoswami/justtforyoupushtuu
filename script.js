@@ -19,9 +19,10 @@ yesBtn.addEventListener(“click”, () => {
       font-family:Arial;
       text-align:center;
     “>
-      <h1>Hehehe 😍</h1>
-      <p style=“font-size:20px;”>Mujhe pata tha tum maan jaogi 💖</p>
+      <h1>Huhhh finallyy maan gaye 😍</h1>
+      <p style=“font-size:20px;”>Mujhe pata tha aap man jaoge jii and i assure abse esa nai karuga 💖</p>
     </div>
   `;
 
 });
+
